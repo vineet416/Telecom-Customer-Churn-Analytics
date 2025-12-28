@@ -122,7 +122,7 @@ Below are the key business questions answered using MySQL, along with **concise,
 ---
 
 ### 6️⃣ How does churn vary by internet service type?         
-![alt text](<outputs/SQL Outputs/6-churn by internet service type.png>)     
+<img width="531" height="96" alt="image" src="https://github.com/user-attachments/assets/0d29e4cc-daba-4413-8766-f1bfd8b2c9af" />     
 **Insight:** **Fiber optic customers exhibit the highest churn (~42%)**, despite being premium users, signaling service or support gaps.
 
 ---
@@ -140,7 +140,7 @@ Below are the key business questions answered using MySQL, along with **concise,
 ---
 
 ### 9️⃣ How does churn vary by payment method?            
-![alt text](<outputs/SQL Outputs/9-churn by payment method.png>)            
+<img width="590" height="119" alt="image" src="https://github.com/user-attachments/assets/2527e3c4-0ff9-4f5d-ae79-4d53b11985e4" />
 **Insight:** Customers using **electronic check payments have the highest churn (~45%)**, while automatic payments show much lower churn.
 
 ---
