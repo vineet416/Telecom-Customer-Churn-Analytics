@@ -4,7 +4,7 @@ End-to-end churn analysis of 7,043 telecom customers using MySQL, Python and Pow
 It measures churn, finds what drives it, and sizes the monthly revenue at risk.
 A rule-based dashboard flags the customers most likely to leave next.
 
-## Project Files
+## Project Files 
 
 | File / Folder | Description |
 |---|---|
